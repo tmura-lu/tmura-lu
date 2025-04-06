@@ -26,7 +26,9 @@
 📟 CONTACT PROTOCOL
 
 🖥️ Terminal: $ nc -lvp 1337 (You sense a connection...)
+
 📮 Carrier Pigeon: Your last one died of stack overflow.
+
 📧 Email: tmura-lu@proton.me (Messages may be intercepted by the Moralist Internuncio.)
 
 
