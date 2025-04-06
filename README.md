@@ -1,4 +1,4 @@
-#🕶️ Mura - Computer Science Student, Disco enjoyer
+#🕶️ Mura - Computer science student, disco enjoyer
 
 ⚡ Electrochemistry Overload – 98% (You smell the ozone of a thousand dying RAM sticks. The machine whispers to you in hex.)
 
