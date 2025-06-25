@@ -5,6 +5,7 @@
 💻 Volition Check – Success: "No, you WILL fix this bug. The compiler fears your resolve."
 
 🧠 Conceptualization – 12/12: "The code is more than syntax—it's a tragic opera of loops and logic."
+
 🎲 SKILLS
 
     HALF LIGHT: Violently deletes legacy code without hesitation.
