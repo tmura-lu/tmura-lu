@@ -15,7 +15,7 @@ SHIVERS            █████░░░░░  you feel the datacenter from 
 
 ## about
 
-Computer Science student who compiles on the first try approximately never. I write code the way a detective examines a crime scene — slowly, with mounting dread, already suspecting myself.
+Computer Science student who compiles on the first try approximately never. I write code the way a detective examines a crime scene, slowly, with mounting dread, already suspecting myself.
 
 Currently losing an argument with a C++ monolith that predates my enrollment. The monolith is winning.
 
