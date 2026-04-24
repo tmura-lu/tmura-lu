@@ -1,36 +1,60 @@
-🕶️ Mura - Computer science student, disco enjoyer
+# mura
 
-⚡ Electrochemistry Overload – 98% (You smell the ozone of a thousand dying RAM sticks. The machine whispers to you in hex.)
+*Computer science student. The machine and I have an understanding. It is not a good one.*
 
-💻 Volition Check – Success: "No, you WILL fix this bug. The compiler fears your resolve."
+---
 
-🧠 Conceptualization – 12/12: "The code is more than syntax—it's a tragic opera of loops and logic."
+```
+ELECTROCHEMISTRY   ████████░░  checking vitals... nominal. barely.
+VOLITION           ██████████  the bug will be fixed. it has to be.
+PAIN THRESHOLD     ███████░░░  3am. segfault. still here.
+SHIVERS            █████░░░░░  you feel the datacenter from across campus.
+```
 
-🎲 SKILLS
+---
 
-    HALF LIGHT: Violently deletes legacy code without hesitation.
+## about
 
-    ENCYCLOPEDIA: "Actually, the first programming language was..."
+Computer Science student who compiles on the first try approximately never. I write code the way a detective examines a crime scene — slowly, with mounting dread, already suspecting myself.
 
-    PAIN THRESHOLD: Debugs segfaults at 3 AM without crying (visibly).
+Currently losing an argument with a C++ monolith that predates my enrollment. The monolith is winning.
 
-    SHIVERS: You feel the server room humming from three blocks away.
+---
 
-🗡️ CURRENT QUEST
+## skills
 
-    ☢️ The 2AM Cryptic Error: "It was working yesterday." (Lie.)
+```
+Languages     C  C++  Python  Java  (and some assembly, regrettably)
+Interests     systems programming · music · whatever this is
+Condition     functional
+```
 
-    ⚙️ The Legacy System: An ancient C++ monolith that smells of burnt coffee and regret.
+---
 
-    🌌 The Impossible Feature: Management wants it yesterday. You want to disappear.
+## active quests
 
-📟 CONTACT PROTOCOL
+| | |
+|---|---|
+| `☢` | **The 2AM Cryptic Error** — *"it was working yesterday."* it was not. |
+| `⚙` | **The Legacy Monolith** — undocumented. load-bearing. the author is unreachable. |
+| `◈` | **The Impossible Feature** — deadline was yesterday. you are still thinking about it. |
 
-🖥️ Terminal: $ nc -lvp 1337 (You sense a connection...)
+---
 
-📮 Carrier Pigeon: Your last one died of stack overflow.
+## contact
 
-📧 Email: tmura-lu@proton.me (Messages may be intercepted by the Moralist Internacional)
+```
+email      tmura-lu@proton.me
+terminal   nc -lvp 1337
+```
 
+> *Messages may take time. I am debugging something. I am always debugging something.*
 
-"God, please let this compile." – Savoir Faire [Impossible: Failure]
+---
+
+<div align="right">
+
+*"please compile."*
+— Inland Empire **[Unlikely: Success]**
+
+</div>
